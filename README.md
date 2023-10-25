@@ -1,5 +1,3 @@
-Test
-
 # k3s multi-node cluster setup with DB as external node
 
 ## Overview:
